@@ -206,14 +206,6 @@
     <Compile Include="Model\Elements3D\OctreeLineGeometryModel3D.cs" />
     <Compile Include="Model\Elements3D\OutLineMeshGeometryModel3D.cs" />
     <Compile Include="Model\Elements3D\ParticleStormModel3D.cs" />
-    <Compile Include="Model\Elements3D\PatchGeometryModel3D.cs" />
-    <Compile Include="Model\Elements3D\PointGeometryModel3D.cs" />
-    <Compile Include="Model\Elements3D\SortingGroupModel3D.cs" />
-    <Compile Include="Model\Elements3D\EnvironmentMap3D.cs" />
-    <Compile Include="Model\Elements3D\PostEffects\PostEffectBoom.cs" />
-    <Compile Include="Model\Elements3D\PostEffects\PostEffectMeshBorderHighlight.cs" />
-    <Compile Include="Model\Elements3D\PostEffects\PostEffectMeshOutlineBlur.cs" />
-    <Compile Include="Model\Elements3D\PostEffects\PostEffectMeshXRay.cs" />
     <Compile Include="Model\Elements3D\ScreenDuplicationModel.cs" />
     <Compile Include="Model\Elements3D\SortingGroupModel3D.cs" />
     <Compile Include="Model\Elements3D\ViewBoxModel3D.cs" />
